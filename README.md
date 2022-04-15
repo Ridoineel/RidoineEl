@@ -2,7 +2,7 @@
 
 About me:
 
-- 🔭 I’m currently working on Markdown Blog (Node.js).
+- 🔭 I’m currently working on interactive markdown editor (React.js, Node.js for file download).
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about web and mobile app developpement.
