@@ -3,18 +3,22 @@
   <img alt="gif" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ridoineel">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/rridoineel">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <a href="https://mailto:ridoineelofficiel@gmail.com" target="blank">
-      <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30"/>
-    </a>
-    <a href="https://wa.me/+22892425451" target="blank">
-      <img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30"/>
-    </a>
+    <p>
+      <a href="https://www.linkedin.com/in/ridoineel">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://twitter.com/rridoineel">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
+    </p>
+    <p>
+      <a href="https://mailto:ridoineelofficiel@gmail.com" target="blank">
+        <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" height="30"/>
+      </a>
+      <a href="https://wa.me/+22892425451" target="blank">
+        <img align="center" src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30"/>
+      </a>
+    </p>
   </div>
   
   <hr/>
@@ -29,13 +33,19 @@
     </a>
   </p>
   
+
+  
   <p align="center">
-    <a href="github.com/ridoineel" target="blank"><img align="center" 
+    <a href="github.com/ridoineel" target="blank">
+      <img align="center" 
        src="https://badges.pufler.dev/updated/ridoineel/ridoineel?style=for-the-badge&color=ff00b4&logo=github&label=Profile+Updated"
-       alt="updated" /></a>
-    <a href="github.com/ridoineel" target="blank"><img align="center" 
-       src="https://badges.pufler.dev/repos/ridoineel/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-       alt="repos" /></a>
+       alt="updated" />
+    </a>
+    <a href="github.com/ridoineel" target="blank">
+       <img align="center" 
+        src="https://badges.pufler.dev/repos/ridoineel/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
+        alt="repos" />
+     </a>
  </p>
 
 </div>
