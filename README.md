@@ -1,5 +1,15 @@
 
 <div align="center">
+  <h1>
+    Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ridoine OURO-BANG'NA
+  </h1>
+  
+  <p>
+    <a href="https://github.com/ridoineel">
+      <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+Student;Full+Stack+Web+Developer;Freelancer;AI/DeepLearning%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+    </a>
+  </p>
+  
   <img alt="gif" height="300px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
   
   <div id="badges">
@@ -20,18 +30,6 @@
       </a>
     </p>
   </div>
-  
-  <hr/>
-  
-  <h1>
-    Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ridoine OURO-BANG'NA
-  </h1>
-  
-  <p>
-    <a href="https://github.com/ridoineel">
-      <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineer+Student;Full+Stack+Web+Developer;Freelancer;AI/DeepLearning%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-    </a>
-  </p>
   
 
   
@@ -58,8 +56,6 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 About me:
 
@@ -138,5 +134,14 @@ About me:
 <a href="https://github.com/ridoineel/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=ridoineel&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+
+<p align="center">
+  <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+</p>
+
 <br>
 <br>
